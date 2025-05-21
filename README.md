@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Enoch</h1>
-- 📫 How to reach me enoch.liu@sju.edu
+- 📫 How to reach me: enoch.liu@sju.edu
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/enoch-liu-500357280/</h3>
 <p align="left">
