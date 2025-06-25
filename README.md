@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Enoch</h1>
 - 📫 How to reach me: enoch.liu@sju.edu
 
